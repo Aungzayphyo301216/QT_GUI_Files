@@ -1,0 +1,12 @@
+# ninja log v5
+0	721	1661519878211885757	SecondWindows_autogen/timestamp	687f11badff6c881
+0	721	1661519878211885757	SecondWindows_autogen/mocs_compilation.cpp	687f11badff6c881
+0	721	1661519878211885757	/home/azp/build-SecondWindows-Desktop_Qt_6_4_0_GCC_64bit-Debug/SecondWindows_autogen/timestamp	687f11badff6c881
+0	721	1661519878211885757	/home/azp/build-SecondWindows-Desktop_Qt_6_4_0_GCC_64bit-Debug/SecondWindows_autogen/mocs_compilation.cpp	687f11badff6c881
+721	7269	1661519884335745792	CMakeFiles/SecondWindows.dir/main.cpp.o	6da57094a7ad49a0
+726	7271	1661519884211748604	CMakeFiles/SecondWindows.dir/SecondWindows_autogen/mocs_compilation.cpp.o	4ede35f91fa136b3
+4	20	1661519897715446884	SecondWindows_autogen/timestamp	687f11badff6c881
+4	20	1661519897715446884	SecondWindows_autogen/mocs_compilation.cpp	687f11badff6c881
+4	20	1661519897715446884	/home/azp/build-SecondWindows-Desktop_Qt_6_4_0_GCC_64bit-Debug/SecondWindows_autogen/timestamp	687f11badff6c881
+4	20	1661519897715446884	/home/azp/build-SecondWindows-Desktop_Qt_6_4_0_GCC_64bit-Debug/SecondWindows_autogen/mocs_compilation.cpp	687f11badff6c881
+22	4120	1661519901815357154	CMakeFiles/SecondWindows.dir/mainwindow.cpp.o	db8e98f0311b6caf

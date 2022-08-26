@@ -1,0 +1,27 @@
+# ninja log v5
+0	392	1661505273600435449	SignalsAndSlots_autogen/timestamp	33176c78f19111dc
+0	392	1661505273600435449	SignalsAndSlots_autogen/mocs_compilation.cpp	33176c78f19111dc
+0	392	1661505273600435449	/home/azp/build-SignalsAndSlots-Desktop_Qt_6_4_0_GCC_64bit-Debug/SignalsAndSlots_autogen/timestamp	33176c78f19111dc
+0	392	1661505273600435449	/home/azp/build-SignalsAndSlots-Desktop_Qt_6_4_0_GCC_64bit-Debug/SignalsAndSlots_autogen/mocs_compilation.cpp	33176c78f19111dc
+393	3331	1661505276540436537	CMakeFiles/SignalsAndSlots.dir/mainwindow.cpp.o	e5810898d01e6e61
+392	3352	1661505276564436548	CMakeFiles/SignalsAndSlots.dir/main.cpp.o	201c2c5cb342eb8d
+393	3390	1661505276600436563	CMakeFiles/SignalsAndSlots.dir/SignalsAndSlots_autogen/mocs_compilation.cpp.o	79d4f0a3b8c3819
+3390	3860	1661505277068436759	SignalsAndSlots	ec588cfe45f518d6
+4	23	1661505348644546791	SignalsAndSlots_autogen/timestamp	33176c78f19111dc
+4	23	1661505348644546791	SignalsAndSlots_autogen/mocs_compilation.cpp	33176c78f19111dc
+4	23	1661505348644546791	/home/azp/build-SignalsAndSlots-Desktop_Qt_6_4_0_GCC_64bit-Debug/SignalsAndSlots_autogen/timestamp	33176c78f19111dc
+4	23	1661505348644546791	/home/azp/build-SignalsAndSlots-Desktop_Qt_6_4_0_GCC_64bit-Debug/SignalsAndSlots_autogen/mocs_compilation.cpp	33176c78f19111dc
+25	2160	1661505350780552386	CMakeFiles/SignalsAndSlots.dir/mainwindow.cpp.o	e5810898d01e6e61
+2160	2570	1661505351188553468	SignalsAndSlots	ec588cfe45f518d6
+3	28	1661505804631940345	SignalsAndSlots_autogen/timestamp	33176c78f19111dc
+3	28	1661505804631940345	SignalsAndSlots_autogen/mocs_compilation.cpp	33176c78f19111dc
+3	28	1661505804631940345	/home/azp/build-SignalsAndSlots-Desktop_Qt_6_4_0_GCC_64bit-Debug/SignalsAndSlots_autogen/timestamp	33176c78f19111dc
+3	28	1661505804631940345	/home/azp/build-SignalsAndSlots-Desktop_Qt_6_4_0_GCC_64bit-Debug/SignalsAndSlots_autogen/mocs_compilation.cpp	33176c78f19111dc
+30	2318	1661505806919965665	CMakeFiles/SignalsAndSlots.dir/mainwindow.cpp.o	e5810898d01e6e61
+2319	2805	1661505807403971029	SignalsAndSlots	ec588cfe45f518d6
+3	20	1661505961297799853	SignalsAndSlots_autogen/timestamp	33176c78f19111dc
+3	20	1661505961297799853	SignalsAndSlots_autogen/mocs_compilation.cpp	33176c78f19111dc
+3	20	1661505961297799853	/home/azp/build-SignalsAndSlots-Desktop_Qt_6_4_0_GCC_64bit-Debug/SignalsAndSlots_autogen/timestamp	33176c78f19111dc
+3	20	1661505961297799853	/home/azp/build-SignalsAndSlots-Desktop_Qt_6_4_0_GCC_64bit-Debug/SignalsAndSlots_autogen/mocs_compilation.cpp	33176c78f19111dc
+22	2225	1661505963501827658	CMakeFiles/SignalsAndSlots.dir/mainwindow.cpp.o	e5810898d01e6e61
+2225	2660	1661505963933833112	SignalsAndSlots	ec588cfe45f518d6

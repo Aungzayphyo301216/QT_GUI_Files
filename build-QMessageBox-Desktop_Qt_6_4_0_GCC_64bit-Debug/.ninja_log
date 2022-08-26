@@ -1,0 +1,19 @@
+# ninja log v5
+427	3523	1661506782062304150	CMakeFiles/QMessageBox.dir/mainwindow.cpp.o	c8acc1b097cfdf74
+3547	4003	1661506782538296904	QMessageBox	6edfad42d50f0d10
+6	100	1661506995939933925	/home/azp/build-QMessageBox-Desktop_Qt_6_4_0_GCC_64bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	4873b92875da077f
+6	100	1661506995939933925	QMessageBox_autogen/mocs_compilation.cpp	4873b92875da077f
+6	100	1661506995939933925	QMessageBox_autogen/timestamp	4873b92875da077f
+427	3546	1661506782082303846	CMakeFiles/QMessageBox.dir/QMessageBox_autogen/mocs_compilation.cpp.o	bee67430bc3391c9
+6	100	1661506995939933925	/home/azp/build-QMessageBox-Desktop_Qt_6_4_0_GCC_64bit-Debug/QMessageBox_autogen/timestamp	4873b92875da077f
+426	3277	1661506781814307935	CMakeFiles/QMessageBox.dir/main.cpp.o	73bd87062fb927c2
+23	980	1661507844924115926	QMessageBox_autogen/timestamp	4873b92875da077f
+23	980	1661507844924115926	QMessageBox_autogen/mocs_compilation.cpp	4873b92875da077f
+23	980	1661507844924115926	/home/azp/build-QMessageBox-Desktop_Qt_6_4_0_GCC_64bit-Debug/QMessageBox_autogen/timestamp	4873b92875da077f
+23	980	1661507844924115926	/home/azp/build-QMessageBox-Desktop_Qt_6_4_0_GCC_64bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	4873b92875da077f
+988	10064	1661507854016158680	CMakeFiles/QMessageBox.dir/QMessageBox_autogen/mocs_compilation.cpp.o	bee67430bc3391c9
+980	10160	1661507854112159134	CMakeFiles/QMessageBox.dir/main.cpp.o	73bd87062fb927c2
+31	211	1661507877580271575	QMessageBox_autogen/timestamp	4873b92875da077f
+31	211	1661507877580271575	QMessageBox_autogen/mocs_compilation.cpp	4873b92875da077f
+31	211	1661507877580271575	/home/azp/build-QMessageBox-Desktop_Qt_6_4_0_GCC_64bit-Debug/QMessageBox_autogen/timestamp	4873b92875da077f
+31	211	1661507877580271575	/home/azp/build-QMessageBox-Desktop_Qt_6_4_0_GCC_64bit-Debug/QMessageBox_autogen/mocs_compilation.cpp	4873b92875da077f
